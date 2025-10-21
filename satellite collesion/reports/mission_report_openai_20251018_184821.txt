@@ -1,0 +1,10 @@
+=== AI Satellite Trajectory Risk Avoidance Report ===
+
+ Collision Event:
+{
+  "satellite_1": "ISS",
+  "satellite_2": "SimSat-01",
+  "closest_date": "A.D. 2024-Dec-02 00:00:00.0000",
+  "min_distance_km": 14.303,
+  "relative_speed_km_s": 7.42
+}
