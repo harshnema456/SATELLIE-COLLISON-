@@ -1,6 +1,6 @@
 """
 🚀 Phase 10B — Real-Time Collision Monitoring Dashboard
-Author: Harsh Nema
+Author: Harsh Nema.
 """
 
 import os
